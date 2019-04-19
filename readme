@@ -1,6 +1,6 @@
-#Project name: Taobao double 11 data analysis and predict
+# Project name: Taobao double 11 data analysis and predict
 
-##Main Frames
+## Main Frames
 Linux configuration:
 google cloud compute machine
 ubuntu 18.04
@@ -11,7 +11,7 @@ One master and three slaves for this project
 
 
 
-##Steps:
+## Steps:
 1. Set up cloud machine
 	1.Connect machine via GCP web ssh window,
 	2.After connectting, switch to the "ubuntu" account, "sudo su ubuntu"
